@@ -1,0 +1,1 @@
+{"name": "MY JOURNEY", "short_name": "JOURNEY", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#10151e", "theme_color": "#10151e", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
